@@ -11,10 +11,13 @@ https://github.ibm.com/ocp-dev-bootcamp-2020-05/day8-templates.git
 
 3. Edit the todo-template.yaml for following changes in the VI editor:
 
-a.	MongoDB version should be set to 3.6
-b.	NodeJS version should be set to latest
-c.	Set default value of NPM Mirror to - https://registry.npmjs.org
-d.	Database Name is required
+    a.	MongoDB version should be set to 3.6
+    
+    b.	NodeJS version should be set to latest
+    
+    c.	Set default value of NPM Mirror to - https://registry.npmjs.org
+    
+    d.	Database Name is required
 
 4. Create a new app named “test-nodejs” using the updated template to your project namespace
 
