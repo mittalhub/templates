@@ -17,11 +17,11 @@ https://github.ibm.com/ocp-dev-bootcamp-2020-05/day8-templates.git
     
     c.	Set default value of NPM Mirror to - https://registry.npmjs.org
     
-    d.	Database Name is required
+    d.	Parameter Database Name is required. 
 
 4. Create a new app named “test-nodejs” using the updated template to your project namespace
 
-5. Export the template to file “exported-template.yaml” and compare the same with the “todo-template.yaml” to understand the extra objects in the exported template.
+5. Export the template from the deployed aapplication to “exported-template.yaml” and compare the same with the “todo-template.yaml” to understand the extra objects in the exported template.
 
 6. Send the screen shot of the running app and email a copy of the two templates.
 
