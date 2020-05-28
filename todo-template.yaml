@@ -266,7 +266,6 @@ parameters:
   - name: GIT_URL
     displayName: Git Repository URL
     description: The URL of the repository with your application source code.
-    value: 'https://github.com/sclorg/nodejs-ex.git'
     required: true
   - name: GIT_REF
     displayName: Git Reference
@@ -310,8 +309,7 @@ parameters:
     generate: expression
     from: '[a-zA-Z0-9]{16}'
   - name: DATABASE_NAME
-    displayName: Database Name
-    value: sampledb   
+    displayName: Database Name       
   - name: DATABASE_ADMIN_PASSWORD
     displayName: Database Administrator Password
     description: Password for the database admin user.
