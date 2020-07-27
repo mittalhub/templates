@@ -6,7 +6,7 @@ Edit the template using VI Editor:
 https://c100-e.us-east.containers.cloud.ibm.com:31920
 
 2.	Clone the day8-templates git repository
-https://github.ibm.com/ocp-dev-bootcamp-2020-05/day8-templates.git 
+https://github.ibm.com/ocp-dev-bootcamp-2020-07/day8-templates.git 
 
 
 3. Edit the todo-template.yaml for following changes in the VI editor:
