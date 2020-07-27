@@ -3,7 +3,7 @@
 Edit the template using VI Editor:
 
 1.	Login to the Openshift cluster at 
-https://c100-e.us-east.containers.cloud.ibm.com:30596 
+https://c100-e.us-east.containers.cloud.ibm.com:31920
 
 2.	Clone the day8-templates git repository
 https://github.ibm.com/ocp-dev-bootcamp-2020-05/day8-templates.git 
