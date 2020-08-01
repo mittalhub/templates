@@ -5,9 +5,7 @@ Edit the template using VI Editor:
 1.	Login to the Openshift cluster at 
 https://c100-e.us-east.containers.cloud.ibm.com:31920
 
-2.	Clone the day8-templates git repository
-https://github.ibm.com/ocp-dev-bootcamp-2020-07/day8-templates.git 
-
+2.	Clone this repository
 
 3. Edit the todo-template.yaml for following changes in the VI editor:
 
