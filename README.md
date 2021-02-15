@@ -3,7 +3,7 @@
 Edit the template using VI Editor:
 
 1.	Login to the Openshift cluster at 
-https://c100-e.us-east.containers.cloud.ibm.com:31920
+https://c103-e.us-south.containers.cloud.ibm.com:31362
 
 2.	Clone this repository
 
