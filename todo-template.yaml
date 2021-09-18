@@ -266,6 +266,7 @@ parameters:
     displayName: Git Repository URL
     description: The URL of the repository with your application source code.
     required: true
+    value: https://github.com/sclorg/nodejs-ex.git
   - name: GIT_REF
     displayName: Git Reference
     description: >-
@@ -308,7 +309,9 @@ parameters:
     generate: expression
     from: '[a-zA-Z0-9]{16}'
   - name: DATABASE_NAME
-    displayName: Database Name       
+    displayName: Database Name
+    value: tododb    
+    required: true      
   - name: DATABASE_ADMIN_PASSWORD
     displayName: Database Administrator Password
     description: Password for the database admin user.
@@ -317,6 +320,7 @@ parameters:
   - name: NPM_MIRROR
     displayName: Custom NPM Mirror URL
     description: The custom NPM mirror URL
+    value: https://registry.npmjs.org
 labels:
   app: nodejs-mongodb
   template: nodejs-mongodb
