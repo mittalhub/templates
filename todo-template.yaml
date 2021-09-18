@@ -73,7 +73,7 @@ objects:
               value: '${NPM_MIRROR}'
           from:
             kind: ImageStreamTag
-            name: 'nodejs:6'
+            name: 'nodejs:latest'
             namespace: 'openshift'
         type: Source
       triggers:
@@ -242,7 +242,7 @@ objects:
               - mongodb
             from:
               kind: ImageStreamTag
-              name: 'mongodb:3.4'
+              name: 'mongodb:3.6'
               namespace: 'openshift'
           type: ImageChange
         - type: ConfigChange
